@@ -26,10 +26,10 @@ To develop a natural language processing (NLP) model that can automatically clas
 * Step 3 : Concat 2 dataframe , reset index ,create new column for year and month of the post and drop column ‘date’
 * Step 4 : Check data balance & random drop data in apple 40%
 * Step 5 : Text Cleaning
- - Remove HTML tags
- - Remove non-alphanumeric characters
- - Remove extra white spaces
- - Make all text lowercase
+  - Remove HTML tags
+  - Remove non-alphanumeric characters
+  - Remove extra white spaces
+  - Make all text lowercase
 * Step 6 : Create new column for post length & word count
 * Step 7 : Tokenizing
 * Step 8 : Lemmatizing
