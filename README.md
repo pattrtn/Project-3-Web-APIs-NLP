@@ -61,7 +61,7 @@ Model 3 : Random Forests
 - F1 Score : 0.89129
 
 
-#### Chose Model 1 
+#### Chose Model 1 For better score compare to others model
 ---
 
 #### Conclusions
