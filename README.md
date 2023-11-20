@@ -1,14 +1,14 @@
 # Project-3-Web-APIs-NLP-
 
 #### Problem Statement:
-Marketing student who want to analyzing the competitive dynamics between Samsung and Apple to understand market trends and the factors influencing consumer preferences in the global electronics industry by seeking insights of 'Samsung vs. Apple' via online platform.
+Marketing student who want to develop NLP for analyzing the competitive dynamics between Samsung and Apple to understand market trends and the factors influencing consumer preferences in the global electronics industry.
 
 
 #### Background: 
 The rivalry between Samsung and Apple is a longstanding and prominent competition in the consumer electronics industry.
 
 #### Objectives:
-To develop a natural language processing (NLP) model that can automatically classify post into Samsung and Apple categories and help identify emerging trends or potential issues between these two.
+To develop NLP model that can automatically classify post into Samsung and Apple categories and see if can develop into another funtion that help gathering more data like classify customer sentiments for sentiment analysis or identifying emerging trends and topics in the discussions related to Samsung and Apple for market trend identification that would help with marketing research in the future.
 
 
 ---
@@ -65,7 +65,7 @@ Model 3 : Random Forests
 ---
 
 #### Conclusions
-* EDA can help gain insights of consumer preferences and the development of a natural language processing (NLP) model to automatically classify post into the categories of Samsung and Apple would help identify market trends by sorting all data and show how much interaction with each topic.
+* NLP model have ability to classify post into the categories of Samsung and Apple with acceptable in a prediction model accuracy.So it can develop to classify more detail in future , for next step should be develop with similar data like categorize brand mentions for Samsung and Apple and classify customer sentiments expressed in reviews and social media comments.
 
 ---
 
